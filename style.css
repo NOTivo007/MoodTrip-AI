@@ -1,0 +1,6 @@
+body { font-family: sans-serif; background-color: #f0f4f8; display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; }
+.container { text-align: center; background: white; padding: 40px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); }
+h1 { color: #2c3e50; }
+p { color: #7f8c8d; }
+.mood-btn { background-color: #3498db; color: white; border: none; padding: 10px 20px; margin: 5px; border-radius: 5px; cursor: pointer; transition: background-color 0.3s; }
+.mood-btn:hover { background-color: #2980b9; }
